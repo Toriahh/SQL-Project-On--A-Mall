@@ -8,12 +8,12 @@ Agents: Information about sales agents.
 Customers: Details of customers.
 Orders: Records of orders placed.
 
-What I Learned
+What I Learned;
 How to create tables and define relationships between them.
 Inserting and managing data in a database.
 Writing basic SQL queries to retrieve useful information.
 
-How to Use
+How to Use;
 Run the SQL script in any SQL database management tool.
 Explore the tables and try running some queries!
 
